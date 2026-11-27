@@ -5,7 +5,7 @@
     "description": "Smooth camera at any mouse polling rate in Minecraft 1.8.9. Raw input on its own thread, no legacy mouse message flood.",
     "version": "${version}",
     "mcversion": "${mcversion}",
-    "url": "https://github.com/as9pa/rawpoll",
+    "url": "https://github.com/as9p/rawpoll",
     "updateUrl": "",
     "authorList": ["as9pa"],
     "credits": "",
