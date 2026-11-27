@@ -2,7 +2,7 @@
 
 **Any polling rate support for Minecraft 1.8.9 (Forge).** Play at 8000 Hz with no stutters. Vanilla 1.8.9 freezes for 100+ ms at a time when a high polling rate mouse moves; rawpoll removes those stalls.
 
-**[Download](https://github.com/as9pa/rawpoll/releases/latest)** (Forge 1.8.9, Windows, client side only)
+**[Download](https://github.com/as9p/rawpoll/releases/latest)** (Forge 1.8.9, Windows, client side only)
 
 ## What it does
 
